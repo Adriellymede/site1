@@ -1,0 +1,33 @@
+
+@charset" UTF-8";
+
+body{
+     background-color: black;
+     color: white; 
+ }
+
+body h1{
+    text-align: center;
+}
+body p{
+    font-size: 20px;
+    text-align: center;
+}
+body img{
+    display: block;
+    margin: auto;
+    
+}
+
+ body img.foto {
+    
+    max-width: 350px;
+    display: block;
+    margin: auto;
+    box-shadow: 5px 5px 10px white;
+    
+}
+div.video>iframe{
+    display: block;
+    margin: auto;
+}
